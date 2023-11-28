@@ -1,75 +1,77 @@
-![HR data](https://github.com/RupeshSankpal/HR-Analytics-Project/assets/129041496/607d17b2-e67c-485e-9666-9e1371ae1f1d)
 
 
-# HR Analytics Project on Power BI
+# HR Analytics Dashboard
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Purpose](#purpose)
-3. [Key Objectives](#key-objectives)
+3. [Key Features](#key-features)
 4. [Technology Stack](#technology-stack)
 5. [Getting Started](#getting-started)
-6. [Usage](#usage)
-7. [Visualization](#visualization)
+6. [Dashboard Overview](#dashboard-overview)
+7. [Data Sources](#data-sources)
+8. [Key Performance Indicators (KPIs)](#key-performance-indicators)
+9. [Visualization](#Visualization)
 
 
 ## Introduction
 
-Welcome to the HR Analytics Project repository on Power BI. This project is designed to provide valuable insights into human resources data through the use of Power BI, a powerful business analytics tool by Microsoft. The project focuses on leveraging HR data to enhance decision-making processes within an organization.
+Welcome to the HR Analytics Project Documentation. This Power BI dashboard is designed to provide insights into key Human Resources metrics, with a focus on remote work trends and employee attendance. The dashboard showcases key performance indicators (KPIs) and graphs that help stakeholders understand workforce dynamics.
 
 ## Purpose
 
-The purpose of this project is to:
+The purpose of this HR Analytics Project is to:
 
-- **Optimize HR Operations:** Streamline human resources processes and identify areas for improvement.
-- **Data-Driven Decision Making:** Enable stakeholders to make informed decisions by visualizing key HR metrics.
-- **Employee Performance Analysis:** Analyze employee performance trends to enhance workforce efficiency.
-- **Predictive Analytics:** Utilize predictive modelling to forecast HR-related trends and make proactive decisions.
+- **Remote Work Analysis:** Provide insights into the percentage of work-from-home (WFH) days relative to total working days.
+- **Attendance Monitoring:** Visualize employee attendance patterns, including present days and leave percentages.
+- **Data-Driven Decision Making:** Enable stakeholders to make informed decisions based on HR metrics.
 
-## Key Objectives
+## Key Features
 
-1. **Create Interactive Dashboards:** Develop dynamic Power BI dashboards to visualize HR metrics in real time.
-2. **Data Integration:** Integrate diverse HR data sources for a comprehensive overview.
-3. **Performance Analytics:** Implement measures for tracking and analyzing employee performance.
-4. **Predictive Modeling:** Apply predictive analytics to forecast employee turnover and identify potential areas of concern.
-5. **User-Friendly Interface:** Ensure the Power BI dashboards are user-friendly and accessible to non-technical users.
+1. **WFH Analysis:** Percentage of WFH days relative to the total working days.
+2. **Attendance Monitoring:** Metrics for employee present days and leave percentages.
+3. **Graphical Representations:** Graphs illustrating the percentage of WFH, sick leave (SL), and employee present percentages.
 
 ## Technology Stack
 
 The following technologies were used to build this project:
 
-- **Power BI:** The core tool for creating interactive and insightful dashboards.
+- **Power BI:** The primary tool for creating interactive dashboards.
 - **Microsoft Excel:** Used for data preprocessing and cleaning before importing into Power BI.
 - **SQL Server:** Employed for database management and data retrieval.
+- **DAX (Data Analysis Expressions):** Used for creating custom calculations and measures in Power BI.
 
 ## Getting Started
 
-To get started with this project, follow these steps:
+To get started with this dashboard, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/RupeshSankpal/HR-Analytics-Project.git`
 2. Install Power BI Desktop: [Download Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 3. Open the project file in Power BI Desktop.
 4. Explore the data models and visualizations.
 
-## Usage
+## Dashboard Overview
 
-1. Open the Power BI file (`HR Analytics Dashboard.pbix`) using Power BI Desktop.
-2. Refresh the data connections if needed.
-3. Interact with the dashboards to gain insights into HR metrics.
+The HR Analytics Dashboard offers a comprehensive overview of key HR metrics, emphasizing remote work analysis and attendance monitoring. The main components of the dashboard include:
+
+- **WFH Analysis:** Visual representation of the percentage of WFH days.
+- **Attendance Metrics:** KPIs for employee present days and leave percentages.
+- **Graphical Representations:** Graphs depicting the percentage of WFH, SL %, and Employee Present %.
 
 ## Data Sources
 
-The HR Analytics project utilizes the following data sources:
+The HR Analytics Project utilizes the following data sources:
 
-- **Employee Database:** Contains information about employees, including demographics and performance metrics.
-- **Time and Attendance System:** Tracks employee attendance and time-related data.
-- **Recruitment System:** Provides data on the recruitment process, including candidate details and hiring timelines.
+- **Employee Database:** Contains information about employee attendance, WFH days, and leave data.
+- **HR Management System:** Provides data on employee work patterns, leave types, and other relevant HR metrics.
+
+## Key Performance Indicators (KPIs)
+
+1. **% of WFH Days:** The percentage of workdays spent working from home.
+2. **Employee Present Days:** The percentage of days an employee is present at the workplace.
+3. **Sick Leave Percentage (% SL):** The percentage of sick leave days relative to total working days.
 
 ## Visualization
-
-Dashboard Screenshot
-![HR data](https://github.com/RupeshSankpal/HR-Analytics-Project/assets/129041496/ec1e9f4f-659b-414a-b302-d3b9e8cf64b3)
-
-
-
+ScreenShot of the Dashboard
+![HR data](https://github.com/RupeshSankpal/HR-Analytics-Project/assets/129041496/ed619fc8-0f2c-4700-bfaf-fdd0a5862145)
