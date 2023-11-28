@@ -11,6 +11,7 @@
 4. [Technology Stack](#technology-stack)
 5. [Getting Started](#getting-started)
 6. [Usage](#usage)
+7. [Visualization](#visualization)
 
 
 ## Introduction
@@ -65,6 +66,10 @@ The HR Analytics project utilizes the following data sources:
 - **Time and Attendance System:** Tracks employee attendance and time-related data.
 - **Recruitment System:** Provides data on the recruitment process, including candidate details and hiring timelines.
 
+## Visualization
+
+Dashboard Screenshot
+![HR data](https://github.com/RupeshSankpal/HR-Analytics-Project/assets/129041496/ec1e9f4f-659b-414a-b302-d3b9e8cf64b3)
 
 
 
