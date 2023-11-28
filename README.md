@@ -11,7 +11,6 @@
 4. [Technology Stack](#technology-stack)
 5. [Getting Started](#getting-started)
 6. [Usage](#usage)
-7. [Data Sources](#data-sources)
 
 
 ## Introduction
@@ -47,7 +46,7 @@ The following technologies were used to build this project:
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/hr-analytics-powerbi.git`
+1. Clone the repository: `git clone https://github.com/RupeshSankpal/HR-Analytics-Project.git`
 2. Install Power BI Desktop: [Download Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 3. Open the project file in Power BI Desktop.
 4. Explore the data models and visualizations.
