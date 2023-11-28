@@ -53,7 +53,7 @@ To get started with this project, follow these steps:
 
 ## Usage
 
-1. Open the Power BI file (` HR Analytics Proj.pbix ') using Power BI Desktop.
+1. Open the Power BI file (` #HR Analytics Proj.pbix ') using Power BI Desktop.
 2. Refresh the data connections if needed.
 3. Interact with the dashboards to gain insights into HR metrics.
 
