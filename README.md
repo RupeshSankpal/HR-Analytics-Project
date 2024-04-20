@@ -74,4 +74,4 @@ The HR Analytics Project utilizes the following data sources:
 
 ## Visualization
 ScreenShot of the Dashboard
-![HR data](https://github.com/RupeshSankpal/HR-Analytics-Project/assets/129041496/ed619fc8-0f2c-4700-bfaf-fdd0a5862145)
+![image](https://github.com/RupeshSankpal/HR-Analytics-Project/assets/129041496/6c371d63-9607-47e6-9764-57b81b357da2)
